@@ -1,0 +1,2 @@
+# Error-correction-using-Hamming-code-
+ERROR DETECTION AND CORRECTION USING HAMMING CODE IN PYTHON
