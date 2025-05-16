@@ -15,7 +15,7 @@ error_correction_codes/
 ├── simulate_errors.py         # Script to simulate bit flips/errors
 ├── hamming_decode.py          # Decoder script to detect & correct errors
 ├── hamming_demo.py            # Interactive colorful demo combining all steps
-├── theory.txt                 # In-depth theory explanations
+├── theory.md                  # In-depth theory explanations
 ├── README.md                  # This README file
 ├── requirements.txt           # Python dependencies (e.g. colorama)
 
