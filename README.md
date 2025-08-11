@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="thumbnail.png" alt="Vending Machine FSM Thumbnail" width="800">
+  <img src="error.jpg" alt="Thumbnail" width="800">
 </p>
 
 ## 🗂️ **Project Structure**
